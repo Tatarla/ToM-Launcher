@@ -1,0 +1,17 @@
+C:\Users\111\source\repos\ToML\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\111\source\repos\ToML\obj\Release\ToML.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\ToML\obj\Release\ToML.csproj.SuggestedBindingRedirects.cache
+C:\Users\111\source\repos\ToML\obj\Release\ToML.Form1.resources
+C:\Users\111\source\repos\ToML\obj\Release\ToML.Properties.Resources.resources
+C:\Users\111\source\repos\ToML\obj\Release\ToML.csproj.GenerateResource.cache
+C:\Users\111\source\repos\ToML\obj\Release\ToML.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\ToML\obj\Release\ToML.csproj.CopyComplete
+C:\Users\111\source\repos\ToML\bin\Release\ToMLauncher.exe.config
+C:\Users\111\source\repos\ToML\bin\Release\ToMLauncher.exe.manifest
+C:\Users\111\source\repos\ToML\bin\Release\ToMLauncher.application
+C:\Users\111\source\repos\ToML\bin\Release\ToMLauncher.exe
+C:\Users\111\source\repos\ToML\bin\Release\ToMLauncher.pdb
+C:\Users\111\source\repos\ToML\obj\Release\ToMLauncher.exe.manifest
+C:\Users\111\source\repos\ToML\obj\Release\ToMLauncher.application
+C:\Users\111\source\repos\ToML\obj\Release\ToMLauncher.exe
+C:\Users\111\source\repos\ToML\obj\Release\ToMLauncher.pdb
